@@ -20,6 +20,8 @@ It is HIGHLY recommended to print this yourself. If that is not possible, a PLA 
 
 When printing, make sure the very top line (seen in red below) is printed in TPU and not PLA to ensure a soft gentle close. This is likely NOT possible when ordering from PCBway (in that case, supliment with electrical tape or another rubber stopper).
 
+It is also recommended to print the very bottom at a very high infill so it's much heavier.
+
 ![image](https://github.com/user-attachments/assets/6e447df1-4e53-4af0-9230-2ffd0be31894)
 
 
