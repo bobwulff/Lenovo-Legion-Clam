@@ -13,7 +13,7 @@ COMPONENTS NEEDED:
 | Heat Threaded Inserts | [Amazon](https://amzn.to/3Rn92r1) |
 | M2x4 and M2x10 screws | [Amazon](https://amzn.to/3GeJXMA) |
 | M1.6x8 screws for Lenovo | [Amazon](https://amzn.to/3RnncbG) |
-| USB-C cable | [Amazon](https://amzn.to/3Y2GmY5) |
+| Short USB-C cable | [Aliexpress]([https://amzn.to/3Y2GmY5](https://s.click.aliexpress.com/e/_opmJpjD)) |
 | PCB (additional components listed on PCB page) | [Flatbox Mini WASD](https://github.com/bobwulff/flatbox_mini_WASD/) |
 
 It is HIGHLY recommended to print this yourself. If that is not possible, a PLA 3D print can be purchased [via PCBway ](https://www.pcbway.com/project/shareproject/Lenovo_Legion_Clam_b2800a93.html)
